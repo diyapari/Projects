@@ -37,3 +37,11 @@
 • Incorporated matrix factorization techniques to improve recommendation accuracy.
 
 • Outcome: Created a system that offers personalized movie recommendations based on user preferences, enhancing movie-watching experiences.
+
+4. Music Recommendation System:
+   
+• Developed a music recommendation system that leverages the Spotify API and Python to provide personalized music recommendations.
+
+• Collected real-time music data, processed it, and used it to create a comprehensive user profile.
+
+• Utilized recommendation algorithms to enhance user experience by offering tailored music suggestions.
