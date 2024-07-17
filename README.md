@@ -1,4 +1,4 @@
-1.Breast Cancer Prediction Project:
+1. Breast Cancer Prediction Project:
 
 • I aimed to accurately predict whether a breast tumor is benign or malignant.
 
