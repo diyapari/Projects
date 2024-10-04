@@ -1,4 +1,4 @@
-1. Breast Cancer Prediction Project:
+**1. Breast Cancer Prediction Project:**
 
 • I aimed to accurately predict whether a breast tumor is benign or malignant.
 
@@ -12,7 +12,7 @@
 
 • Outcome: Developed a model that accurately predicts tumor malignancy, valuable for medical diagnosis.I have achieved a accuracy 98.24% by XgBoost model.
 
-2. Emotion Detection Project:
+**2. Emotion Detection Project:**
 
 • Analyzed facial expressions to predict the expressed emotion using convolutional neural networks (CNN).     
 
@@ -24,7 +24,7 @@
 
 • Outcome: Created a model that accurately identifies emotions in facial expressions, useful for sentiment analysis.
 
-3. Movie Recommendation Project:
+**3. Movie Recommendation Project:**
 
 • Developed a recommendation system using collaborative filtering techniques.
 
@@ -38,7 +38,7 @@
 
 • Outcome: Created a system that offers personalized movie recommendations based on user preferences, enhancing movie-watching experiences.
 
-4. Music Recommendation System:
+**4. Music Recommendation System:**
    
 • Developed a music recommendation system that leverages the Spotify API and Python to provide personalized music recommendations.
 
