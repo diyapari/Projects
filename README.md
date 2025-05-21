@@ -1,4 +1,20 @@
-**1. Breast Cancer Prediction Project:**
+**🚀 1.Dropship Finder: Web Scraping for E-commerce Discovery**
+A smart tool to discover unique, low-competition products across top e-commerce platforms like eBay, Amazon, AliExpress, and TradeIndia. Built using Python and Streamlit, this app helps dropshippers and entrepreneurs find hidden gems in real-time.
+
+**🔍 Features**
+Scrape product links from:
+• eBay
+• Amazon
+• AliExpress
+• TradeIndia
+
+**Workflow**
+• Search with niche keywords
+• Live scraping (real-time results)
+• View Product Links
+Simple, no-login interface built with Streamlit
+
+**2. Breast Cancer Prediction Project:**
 
 • I aimed to accurately predict whether a breast tumor is benign or malignant.
 
@@ -12,7 +28,7 @@
 
 • Outcome: Developed a model that accurately predicts tumor malignancy, valuable for medical diagnosis.I have achieved a accuracy 98.24% by XgBoost model.
 
-**2. Emotion Detection Project:**
+**3. Emotion Detection Project:**
 
 • Analyzed facial expressions to predict the expressed emotion using convolutional neural networks (CNN).     
 
@@ -24,7 +40,7 @@
 
 • Outcome: Created a model that accurately identifies emotions in facial expressions, useful for sentiment analysis.
 
-**3. Movie Recommendation Project:**
+**4. Movie Recommendation Project:**
 
 • Developed a recommendation system using collaborative filtering techniques.
 
@@ -38,7 +54,7 @@
 
 • Outcome: Created a system that offers personalized movie recommendations based on user preferences, enhancing movie-watching experiences.
 
-**4. Music Recommendation System:**
+**5. Music Recommendation System:**
    
 • Developed a music recommendation system that leverages the Spotify API and Python to provide personalized music recommendations.
 
