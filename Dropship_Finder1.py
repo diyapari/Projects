@@ -1,5 +1,5 @@
-!pip install beautifulsoup4
-!pip install requests
+pip install beautifulsoup4
+pip install requests
 import streamlit as st
 import urllib.request
 from bs4 import BeautifulSoup
