@@ -5,15 +5,23 @@ A smart tool to discover unique, low-competition products across top e-commerce 
 **🔍 Features**
 
 Scrape product links from:
+
 • eBay
+
 • Amazon
+
 • AliExpress
+
 • TradeIndia
 
 **Workflow**
+
 • Search with niche keywords
+
 • Live scraping (real-time results)
+
 • View Product Links
+
 Simple, no-login interface built with Streamlit
 
 **2. Breast Cancer Prediction Project:**
