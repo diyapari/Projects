@@ -1,4 +1,4 @@
-**🚀 1.Dropship Finder: Web Scraping for E-commerce Discovery**
+**1. 🚀 Dropship Finder: Web Scraping for E-commerce Discovery**
 
 A smart tool to discover unique, low-competition products across top e-commerce platforms like eBay, Amazon, AliExpress, and TradeIndia. Built using Python and Streamlit, this app helps dropshippers and entrepreneurs find hidden gems in real-time.
 
